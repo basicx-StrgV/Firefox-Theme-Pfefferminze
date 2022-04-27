@@ -1,0 +1,39 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Pfefferminze",
+  "description": "A theme with a dark color scheme and light highlights.",
+  "author": "basicx-strgV",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(43, 42, 51)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(28, 27, 34)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(28, 27, 34)",
+      "toolbar_field_text": "rgb(251, 251, 254)",
+      "tab_line": "rgb(27, 234, 167)",
+      "popup": "rgb(66, 65, 77)",
+      "popup_text": "rgb(251, 251, 254)",
+      "button_background_active": "rgb(27, 234, 167)",
+      "button_background_hover": "rgb(47, 166, 127)",
+      "popup_border": "rgb(27, 234, 167)",
+      "tab_selected": "rgb(27, 234, 167)",
+      "tab_text": "rgb(28, 27, 34)",
+      "tab_loading": "rgb(27, 234, 167)"
+    }
+  }
+}
